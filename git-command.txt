@@ -1,0 +1,7 @@
+git clone repo url
+git status
+git add
+git commit -m "mesg"
+git push
+git pull
+
